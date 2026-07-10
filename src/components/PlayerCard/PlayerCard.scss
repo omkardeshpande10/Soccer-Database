@@ -1,0 +1,52 @@
+.player-card {
+  margin-top: 1.5rem;
+  text-align: center;
+
+  &__photo-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+
+  &__photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #e5e7eb;
+  }
+
+  &__name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+  }
+
+  &__stats {
+    text-align: left;
+    margin: 0;
+  }
+
+  &__stat-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #e5e7eb;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__stat-label {
+    font-weight: 600;
+    color: #57606a;
+    font-size: 0.875rem;
+  }
+
+  &__stat-value {
+    font-size: 0.875rem;
+    margin: 0;
+    text-align: right;
+  }
+}

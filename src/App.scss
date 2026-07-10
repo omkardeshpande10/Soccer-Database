@@ -1,8 +1,34 @@
-@use './components/Header/header';
-@use './components/Info/info';
-@use './content/UIShell/UIShell';
-@use './content/LandingPage/landing-page';
+.app {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2rem;
+}
 
-.app .cds--content {
-  margin-top: 3rem;
+.app-header {
+  margin-bottom: 2rem;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+}
+
+.app-main {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.app-panel {
+  flex: 0 0 360px;
+  min-width: 0;
+}
+
+.app-formation {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  &__toolbar {
+    margin-bottom: 1rem;
+  }
 }

@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "M. Akanji",
+    "photo": "https://media.api-sports.io/football/players/5.png",
+    "position": "Defender",
+    "age": 30,
+    "citizenship": "Switzerland",
+    "height": 188,
+    "club": "Manchester City",
+    "rating": 7.27931
+  },
+  {
+    "name": "Rúben Dias",
+    "photo": "https://media.api-sports.io/football/players/567.png",
+    "position": "Defender",
+    "age": 28,
+    "citizenship": "Portugal",
+    "height": 187,
+    "club": "Manchester City",
+    "rating": 7.24
+  },
+  {
+    "name": "J. Stones",
+    "photo": "https://media.api-sports.io/football/players/626.png",
+    "position": "Defender",
+    "age": 31,
+    "citizenship": "England",
+    "height": 188,
+    "club": "Manchester City",
+    "rating": 6.953333
+  },
+  {
+    "name": "K. Walker",
+    "photo": "https://media.api-sports.io/football/players/627.png",
+    "position": "Defender",
+    "age": 35,
+    "citizenship": "England",
+    "height": 183,
+    "club": "Manchester City",
+    "rating": 7.1375
+  },
+  {
+    "name": "N. Aké",
+    "photo": "https://media.api-sports.io/football/players/18861.png",
+    "position": "Defender",
+    "age": 30,
+    "citizenship": "Netherlands",
+    "height": 180,
+    "club": "Manchester City",
+    "rating": 7.092592
+  },
+  {
+    "name": "K. Phillips",
+    "photo": "https://media.api-sports.io/football/players/19130.png",
+    "position": "Midfielder",
+    "age": 30,
+    "citizenship": "England",
+    "height": 178,
+    "club": "Manchester City",
+    "rating": 6.65
+  },
+  {
+    "name": "R. Aït-Nouri",
+    "photo": "https://media.api-sports.io/football/players/21138.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "Algeria",
+    "height": 180,
+    "club": "Manchester City",
+    "rating": 6.893939
+  },
+  {
+    "name": "S. Ortega",
+    "photo": "https://media.api-sports.io/football/players/25004.png",
+    "position": "Goalkeeper",
+    "age": 33,
+    "citizenship": "Germany",
+    "height": 185,
+    "club": "Manchester City",
+    "rating": 6.988888
+  },
+  {
+    "name": "Matheus Nunes",
+    "photo": "https://media.api-sports.io/football/players/41621.png",
+    "position": "Midfielder",
+    "age": 27,
+    "citizenship": "Portugal",
+    "height": 183,
+    "club": "Manchester City",
+    "rating": 6.7875
+  },
+  {
+    "name": "S. Tedić",
+    "photo": "https://media.api-sports.io/football/players/45815.png",
+    "position": "Attacker",
+    "age": 25,
+    "citizenship": "Serbia",
+    "height": 190,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "J. Gvardiol",
+    "photo": "https://media.api-sports.io/football/players/129033.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "Croatia",
+    "height": 185,
+    "club": "Manchester City",
+    "rating": 7.35
+  },
+  {
+    "name": "I. Kaboré",
+    "photo": "https://media.api-sports.io/football/players/140947.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "Burkina Faso",
+    "height": 180,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "T. Doyle",
+    "photo": "https://media.api-sports.io/football/players/144732.png",
+    "position": "Midfielder",
+    "age": 24,
+    "citizenship": "England",
+    "height": 172,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "Yan Couto",
+    "photo": "https://media.api-sports.io/football/players/197448.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "Brazil",
+    "height": 168,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "J. Wilson-Esbrand",
+    "photo": "https://media.api-sports.io/football/players/278128.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "England",
+    "height": 176,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "Oscar Bobb",
+    "photo": "https://media.api-sports.io/football/players/278133.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "Norway",
+    "height": 177,
+    "club": "Manchester City",
+    "rating": 7.13
+  },
+  {
+    "name": "R. Lewis",
+    "photo": "https://media.api-sports.io/football/players/284230.png",
+    "position": "Defender",
+    "age": 21,
+    "citizenship": "England",
+    "height": 170,
+    "club": "Manchester City",
+    "rating": 6.992857
+  },
+  {
+    "name": "True Grant",
+    "photo": "https://media.api-sports.io/football/players/361675.png",
+    "position": "Goalkeeper",
+    "age": 20,
+    "citizenship": "England",
+    "height": null,
+    "club": "Manchester City",
+    "rating": null
+  },
+  {
+    "name": "Alex Telles",
+    "photo": "https://media.api-sports.io/football/players/378.png",
+    "position": "Defender",
+    "age": 33,
+    "citizenship": "Brazil",
+    "height": 181,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "A. Onana",
+    "photo": "https://media.api-sports.io/football/players/526.png",
+    "position": "Goalkeeper",
+    "age": 29,
+    "citizenship": "Cameroon",
+    "height": 190,
+    "club": "Manchester United",
+    "rating": 7.213157
+  },
+  {
+    "name": "David de Gea",
+    "photo": "https://media.api-sports.io/football/players/882.png",
+    "position": "Goalkeeper",
+    "age": 35,
+    "citizenship": "Spain",
+    "height": 192,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "P. Jones",
+    "photo": "https://media.api-sports.io/football/players/888.png",
+    "position": "Defender",
+    "age": 31,
+    "citizenship": "England",
+    "height": 180,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "V. Lindelöf",
+    "photo": "https://media.api-sports.io/football/players/889.png",
+    "position": "Defender",
+    "age": 31,
+    "citizenship": "Sweden",
+    "height": 187,
+    "club": "Manchester United",
+    "rating": 6.868421
+  },
+  {
+    "name": "D. Henderson",
+    "photo": "https://media.api-sports.io/football/players/19088.png",
+    "position": "Goalkeeper",
+    "age": 28,
+    "citizenship": "England",
+    "height": 188,
+    "club": "Manchester United",
+    "rating": 6.85
+  },
+  {
+    "name": "T. Mengi",
+    "photo": "https://media.api-sports.io/football/players/153429.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "England",
+    "height": 186,
+    "club": "Manchester United",
+    "rating": 6.803333
+  },
+  {
+    "name": "A. Elanga",
+    "photo": "https://media.api-sports.io/football/players/153430.png",
+    "position": "Attacker",
+    "age": 23,
+    "citizenship": "Sweden",
+    "height": 178,
+    "club": "Manchester United",
+    "rating": 6.894444
+  },
+  {
+    "name": "W. Fish",
+    "photo": "https://media.api-sports.io/football/players/153434.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "England",
+    "height": 185,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "H. Mejbri",
+    "photo": "https://media.api-sports.io/football/players/180560.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "Tunisia",
+    "height": 177,
+    "club": "Manchester United",
+    "rating": 6.875
+  },
+  {
+    "name": "Logan Pye",
+    "photo": "https://media.api-sports.io/football/players/282130.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "England",
+    "height": null,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "Noam Fritz Emeran",
+    "photo": "https://media.api-sports.io/football/players/282136.png",
+    "position": "Attacker",
+    "age": 23,
+    "citizenship": "France",
+    "height": 179,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "José Mateo Mejía Piedrahita",
+    "photo": "https://media.api-sports.io/football/players/284241.png",
+    "position": "Attacker",
+    "age": 22,
+    "citizenship": "Spain",
+    "height": 181,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "A. Garnacho",
+    "photo": "https://media.api-sports.io/football/players/284324.png",
+    "position": "Attacker",
+    "age": 21,
+    "citizenship": "Argentina",
+    "height": 180,
+    "club": "Manchester United",
+    "rating": 7.069444
+  },
+  {
+    "name": "C. McNeill",
+    "photo": "https://media.api-sports.io/football/players/288107.png",
+    "position": "Attacker",
+    "age": 22,
+    "citizenship": "England",
+    "height": 181,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "M. Oyedele",
+    "photo": "https://media.api-sports.io/football/players/303016.png",
+    "position": "Midfielder",
+    "age": 21,
+    "citizenship": "Poland",
+    "height": 180,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "Sonny Aljofree",
+    "photo": "https://media.api-sports.io/football/players/330636.png",
+    "position": "Defender",
+    "age": 21,
+    "citizenship": "England",
+    "height": 186,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "Elyh Harrison",
+    "photo": "https://media.api-sports.io/football/players/378981.png",
+    "position": "Goalkeeper",
+    "age": 19,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Manchester United",
+    "rating": null
+  },
+  {
+    "name": "Alisson Becker",
+    "photo": "https://media.api-sports.io/football/players/280.png",
+    "position": "Goalkeeper",
+    "age": 33,
+    "citizenship": "Brazil",
+    "height": 193,
+    "club": "Liverpool",
+    "rating": 7.035714
+  },
+  {
+    "name": "J. Gomez",
+    "photo": "https://media.api-sports.io/football/players/284.png",
+    "position": "Defender",
+    "age": 28,
+    "citizenship": "England",
+    "height": 188,
+    "club": "Liverpool",
+    "rating": 6.935483
+  },
+  {
+    "name": "A. Robertson",
+    "photo": "https://media.api-sports.io/football/players/289.png",
+    "position": "Defender",
+    "age": 31,
+    "citizenship": "Scotland",
+    "height": 178,
+    "club": "Liverpool",
+    "rating": 7.447826
+  },
+  {
+    "name": "V. van Dijk",
+    "photo": "https://media.api-sports.io/football/players/290.png",
+    "position": "Defender",
+    "age": 34,
+    "citizenship": "Netherlands",
+    "height": 195,
+    "club": "Liverpool",
+    "rating": 7.383333
+  },
+  {
+    "name": "A. Oxlade-Chamberlain",
+    "photo": "https://media.api-sports.io/football/players/297.png",
+    "position": "Midfielder",
+    "age": 32,
+    "citizenship": "England",
+    "height": 180,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "I. Konaté",
+    "photo": "https://media.api-sports.io/football/players/1145.png",
+    "position": "Defender",
+    "age": 26,
+    "citizenship": "France",
+    "height": 194,
+    "club": "Liverpool",
+    "rating": 7.113636
+  },
+  {
+    "name": "K. Tsimikas",
+    "photo": "https://media.api-sports.io/football/players/1600.png",
+    "position": "Defender",
+    "age": 29,
+    "citizenship": "Greece",
+    "height": 179,
+    "club": "Liverpool",
+    "rating": 7.016666
+  },
+  {
+    "name": "C. Ramsay",
+    "photo": "https://media.api-sports.io/football/players/135525.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "Scotland",
+    "height": 177,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "Thomas Daniel Hill",
+    "photo": "https://media.api-sports.io/football/players/152976.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "England",
+    "height": null,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "James Barry Norris",
+    "photo": "https://media.api-sports.io/football/players/152979.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "England",
+    "height": 172,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "Fábio Carvalho",
+    "photo": "https://media.api-sports.io/football/players/153066.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "Portugal",
+    "height": 170,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "T. Morton",
+    "photo": "https://media.api-sports.io/football/players/162590.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "V. Jaroš",
+    "photo": "https://media.api-sports.io/football/players/162687.png",
+    "position": "Goalkeeper",
+    "age": 24,
+    "citizenship": "Czechia",
+    "height": 190,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "R. Williams",
+    "photo": "https://media.api-sports.io/football/players/162904.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "England",
+    "height": 195,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "C. Bradley",
+    "photo": "https://media.api-sports.io/football/players/180317.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "Northern Ireland",
+    "height": 180,
+    "club": "Liverpool",
+    "rating": 7.281818
+  },
+  {
+    "name": "James Balagizi",
+    "photo": "https://media.api-sports.io/football/players/280683.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "England",
+    "height": null,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "M. Frauendorf",
+    "photo": "https://media.api-sports.io/football/players/284248.png",
+    "position": "Midfielder",
+    "age": 21,
+    "citizenship": "Germany",
+    "height": 180,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "Mateusz Konrad Musiałowski",
+    "photo": "https://media.api-sports.io/football/players/284287.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "Poland",
+    "height": 175,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "Luca Stephenson",
+    "photo": "https://media.api-sports.io/football/players/284367.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "England",
+    "height": null,
+    "club": "Liverpool",
+    "rating": null
+  },
+  {
+    "name": "O. Zinchenko",
+    "photo": "https://media.api-sports.io/football/players/641.png",
+    "position": "Defender",
+    "age": 29,
+    "citizenship": "Ukraine",
+    "height": 175,
+    "club": "Arsenal",
+    "rating": 7.151851
+  },
+  {
+    "name": "E. Smith Rowe",
+    "photo": "https://media.api-sports.io/football/players/1161.png",
+    "position": "Midfielder",
+    "age": 25,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Arsenal",
+    "rating": 6.775
+  },
+  {
+    "name": "E. Nketiah",
+    "photo": "https://media.api-sports.io/football/players/1468.png",
+    "position": "Attacker",
+    "age": 26,
+    "citizenship": "England",
+    "height": 175,
+    "club": "Arsenal",
+    "rating": 6.85
+  },
+  {
+    "name": "D. Rice",
+    "photo": "https://media.api-sports.io/football/players/2937.png",
+    "position": "Midfielder",
+    "age": 26,
+    "citizenship": "England",
+    "height": 188,
+    "club": "Arsenal",
+    "rating": 7.428947
+  },
+  {
+    "name": "David Raya",
+    "photo": "https://media.api-sports.io/football/players/19465.png",
+    "position": "Goalkeeper",
+    "age": 30,
+    "citizenship": "Spain",
+    "height": 183,
+    "club": "Arsenal",
+    "rating": 6.85
+  },
+  {
+    "name": "B. White",
+    "photo": "https://media.api-sports.io/football/players/19959.png",
+    "position": "Defender",
+    "age": 28,
+    "citizenship": "England",
+    "height": 186,
+    "club": "Arsenal",
+    "rating": 7.227777
+  },
+  {
+    "name": "W. Saliba",
+    "photo": "https://media.api-sports.io/football/players/22090.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "France",
+    "height": 192,
+    "club": "Arsenal",
+    "rating": 7.042105
+  },
+  {
+    "name": "Gabriel Magalhães",
+    "photo": "https://media.api-sports.io/football/players/22224.png",
+    "position": "Defender",
+    "age": 28,
+    "citizenship": "Brazil",
+    "height": 190,
+    "club": "Arsenal",
+    "rating": 7.172222
+  },
+  {
+    "name": "J. Timber",
+    "photo": "https://media.api-sports.io/football/players/38746.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "Netherlands",
+    "height": 179,
+    "club": "Arsenal",
+    "rating": 6.7
+  },
+  {
+    "name": "A. Trusty",
+    "photo": "https://media.api-sports.io/football/players/50737.png",
+    "position": "Defender",
+    "age": 27,
+    "citizenship": "USA",
+    "height": 191,
+    "club": "Arsenal",
+    "rating": 6.575
+  },
+  {
+    "name": "J. Kiwior",
+    "photo": "https://media.api-sports.io/football/players/61431.png",
+    "position": "Defender",
+    "age": 25,
+    "citizenship": "Poland",
+    "height": 189,
+    "club": "Arsenal",
+    "rating": 6.90625
+  },
+  {
+    "name": "M. Azeez",
+    "photo": "https://media.api-sports.io/football/players/138842.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "England",
+    "height": 180,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "J. Hillson",
+    "photo": "https://media.api-sports.io/football/players/138843.png",
+    "position": "Goalkeeper",
+    "age": 24,
+    "citizenship": "England",
+    "height": 187,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "K. Hein",
+    "photo": "https://media.api-sports.io/football/players/169295.png",
+    "position": "Goalkeeper",
+    "age": 23,
+    "citizenship": "Estonia",
+    "height": 193,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "C. Cîrjan",
+    "photo": "https://media.api-sports.io/football/players/278075.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "Romania",
+    "height": 174,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "K. Edwards",
+    "photo": "https://media.api-sports.io/football/players/284062.png",
+    "position": "Attacker",
+    "age": 22,
+    "citizenship": "England",
+    "height": 180,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "L. Sousa",
+    "photo": "https://media.api-sports.io/football/players/284439.png",
+    "position": "Defender",
+    "age": 20,
+    "citizenship": "England",
+    "height": 185,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "C. Patino",
+    "photo": "https://media.api-sports.io/football/players/284466.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "M. Lewis-Skelly",
+    "photo": "https://media.api-sports.io/football/players/313245.png",
+    "position": "Defender",
+    "age": 19,
+    "citizenship": "England",
+    "height": 178,
+    "club": "Arsenal",
+    "rating": null
+  },
+  {
+    "name": "R. Lukaku",
+    "photo": "https://media.api-sports.io/football/players/907.png",
+    "position": "Attacker",
+    "age": 32,
+    "citizenship": "Belgium",
+    "height": 191,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Kepa",
+    "photo": "https://media.api-sports.io/football/players/2273.png",
+    "position": "Goalkeeper",
+    "age": 31,
+    "citizenship": "Spain",
+    "height": 189,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "J. Cumming",
+    "photo": "https://media.api-sports.io/football/players/2276.png",
+    "position": "Goalkeeper",
+    "age": 26,
+    "citizenship": "England",
+    "height": 186,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "C. Hudson-Odoi",
+    "photo": "https://media.api-sports.io/football/players/2298.png",
+    "position": "Attacker",
+    "age": 25,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Chelsea",
+    "rating": 7.082758
+  },
+  {
+    "name": "M. Bettinelli",
+    "photo": "https://media.api-sports.io/football/players/19012.png",
+    "position": "Goalkeeper",
+    "age": 33,
+    "citizenship": "England",
+    "height": 193,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "G. Słonina",
+    "photo": "https://media.api-sports.io/football/players/64167.png",
+    "position": "Goalkeeper",
+    "age": 21,
+    "citizenship": "USA",
+    "height": 193,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Đ. Petrović",
+    "photo": "https://media.api-sports.io/football/players/118307.png",
+    "position": "Goalkeeper",
+    "age": 26,
+    "citizenship": "Serbia",
+    "height": 194,
+    "club": "Chelsea",
+    "rating": 6.943478
+  },
+  {
+    "name": "N. Madueke",
+    "photo": "https://media.api-sports.io/football/players/136723.png",
+    "position": "Attacker",
+    "age": 23,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Chelsea",
+    "rating": 7.068181
+  },
+  {
+    "name": "F. Anjorin",
+    "photo": "https://media.api-sports.io/football/players/138777.png",
+    "position": "Midfielder",
+    "age": 24,
+    "citizenship": "England",
+    "height": 185,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "I. Maatsen",
+    "photo": "https://media.api-sports.io/football/players/138816.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "Netherlands",
+    "height": 178,
+    "club": "Chelsea",
+    "rating": 6.4
+  },
+  {
+    "name": "E. Wady",
+    "photo": "https://media.api-sports.io/football/players/181822.png",
+    "position": "Goalkeeper",
+    "age": 21,
+    "citizenship": "USA",
+    "height": null,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "H. Vale",
+    "photo": "https://media.api-sports.io/football/players/274550.png",
+    "position": "Midfielder",
+    "age": 22,
+    "citizenship": "England",
+    "height": 181,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Dylan Williams",
+    "photo": "https://media.api-sports.io/football/players/284260.png",
+    "position": "Defender",
+    "age": 22,
+    "citizenship": "England",
+    "height": null,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Max Merrick",
+    "photo": "https://media.api-sports.io/football/players/287868.png",
+    "position": "Goalkeeper",
+    "age": 20,
+    "citizenship": "England",
+    "height": 176,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Ângelo",
+    "photo": "https://media.api-sports.io/football/players/288055.png",
+    "position": "Attacker",
+    "age": 21,
+    "citizenship": "Brazil",
+    "height": 180,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "M. Golding",
+    "photo": "https://media.api-sports.io/football/players/330986.png",
+    "position": "Midfielder",
+    "age": 19,
+    "citizenship": "England",
+    "height": 178,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "Harrison Murray-Campbell",
+    "photo": "https://media.api-sports.io/football/players/364048.png",
+    "position": "Defender",
+    "age": 19,
+    "citizenship": "England",
+    "height": 186,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "D. Richards",
+    "photo": "https://media.api-sports.io/football/players/411808.png",
+    "position": "Attacker",
+    "age": 20,
+    "citizenship": "Jamaica",
+    "height": 189,
+    "club": "Chelsea",
+    "rating": null
+  },
+  {
+    "name": "B. Davies",
+    "photo": "https://media.api-sports.io/football/players/164.png",
+    "position": "Defender",
+    "age": 32,
+    "citizenship": "Wales",
+    "height": 181,
+    "club": "Tottenham",
+    "rating": 7.017647
+  },
+  {
+    "name": "Lucas Moura",
+    "photo": "https://media.api-sports.io/football/players/178.png",
+    "position": "Attacker",
+    "age": 33,
+    "citizenship": "Brazil",
+    "height": 172,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "R. Bentancur",
+    "photo": "https://media.api-sports.io/football/players/863.png",
+    "position": "Midfielder",
+    "age": 28,
+    "citizenship": "Uruguay",
+    "height": 187,
+    "club": "Tottenham",
+    "rating": 6.804347
+  },
+  {
+    "name": "J. Maddison",
+    "photo": "https://media.api-sports.io/football/players/18784.png",
+    "position": "Midfielder",
+    "age": 29,
+    "citizenship": "England",
+    "height": 175,
+    "club": "Tottenham",
+    "rating": 7.539285
+  },
+  {
+    "name": "Y. Bissouma",
+    "photo": "https://media.api-sports.io/football/players/18968.png",
+    "position": "Midfielder",
+    "age": 29,
+    "citizenship": "Mali",
+    "height": 182,
+    "club": "Tottenham",
+    "rating": 7.067857
+  },
+  {
+    "name": "D. Spence",
+    "photo": "https://media.api-sports.io/football/players/19235.png",
+    "position": "Defender",
+    "age": 25,
+    "citizenship": "England",
+    "height": 185,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "D. Kulusevski",
+    "photo": "https://media.api-sports.io/football/players/30435.png",
+    "position": "Midfielder",
+    "age": 25,
+    "citizenship": "Sweden",
+    "height": 186,
+    "club": "Tottenham",
+    "rating": 7.083333
+  },
+  {
+    "name": "C. Romero",
+    "photo": "https://media.api-sports.io/football/players/30776.png",
+    "position": "Defender",
+    "age": 27,
+    "citizenship": "Argentina",
+    "height": 185,
+    "club": "Tottenham",
+    "rating": 7.296969
+  },
+  {
+    "name": "G. Vicario",
+    "photo": "https://media.api-sports.io/football/players/31354.png",
+    "position": "Goalkeeper",
+    "age": 29,
+    "citizenship": "Italy",
+    "height": 194,
+    "club": "Tottenham",
+    "rating": 7.036842
+  },
+  {
+    "name": "Pedro Porro",
+    "photo": "https://media.api-sports.io/football/players/47519.png",
+    "position": "Defender",
+    "age": 26,
+    "citizenship": "Spain",
+    "height": 173,
+    "club": "Tottenham",
+    "rating": 7.345714
+  },
+  {
+    "name": "M. van de Ven",
+    "photo": "https://media.api-sports.io/football/players/152849.png",
+    "position": "Defender",
+    "age": 24,
+    "citizenship": "Netherlands",
+    "height": 193,
+    "club": "Tottenham",
+    "rating": 6.988888
+  },
+  {
+    "name": "B. Austin",
+    "photo": "https://media.api-sports.io/football/players/156428.png",
+    "position": "Goalkeeper",
+    "age": 26,
+    "citizenship": "England",
+    "height": 188,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "R. Drăgușin",
+    "photo": "https://media.api-sports.io/football/players/162498.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "Romania",
+    "height": 191,
+    "club": "Tottenham",
+    "rating": 6.711111
+  },
+  {
+    "name": "D. Udogie",
+    "photo": "https://media.api-sports.io/football/players/204039.png",
+    "position": "Defender",
+    "age": 23,
+    "citizenship": "Italy",
+    "height": 186,
+    "club": "Tottenham",
+    "rating": 6.885714
+  },
+  {
+    "name": "P. Sarr",
+    "photo": "https://media.api-sports.io/football/players/237129.png",
+    "position": "Midfielder",
+    "age": 23,
+    "citizenship": "Senegal",
+    "height": 185,
+    "club": "Tottenham",
+    "rating": 7.002941
+  },
+  {
+    "name": "A. Devine",
+    "photo": "https://media.api-sports.io/football/players/273757.png",
+    "position": "Midfielder",
+    "age": 21,
+    "citizenship": "England",
+    "height": 182,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "Joshua Keeley",
+    "photo": "https://media.api-sports.io/football/players/291022.png",
+    "position": "Goalkeeper",
+    "age": 22,
+    "citizenship": "Republic of Ireland",
+    "height": 191,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "Rio Kyerematen",
+    "photo": "https://media.api-sports.io/football/players/310531.png",
+    "position": "Midfielder",
+    "age": 20,
+    "citizenship": "England",
+    "height": 174,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "G. Abbott",
+    "photo": "https://media.api-sports.io/football/players/337929.png",
+    "position": "Defender",
+    "age": 20,
+    "citizenship": "England",
+    "height": null,
+    "club": "Tottenham",
+    "rating": null
+  },
+  {
+    "name": "Leo Black",
+    "photo": "https://media.api-sports.io/football/players/361736.png",
+    "position": "Attacker",
+    "age": 19,
+    "citizenship": "England",
+    "height": null,
+    "club": "Tottenham",
+    "rating": null
+  }
+]

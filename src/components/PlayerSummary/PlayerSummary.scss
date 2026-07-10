@@ -1,0 +1,31 @@
+.player-summary {
+  margin-top: 1rem;
+
+  &__label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #57606a;
+    margin-bottom: 0.75rem;
+  }
+
+  &__text {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+
+  &__source {
+    font-size: 0.75rem;
+    color: #57606a;
+    margin: 0;
+  }
+
+  &__error {
+    font-size: 0.875rem;
+    color: #57606a;
+    font-style: italic;
+    margin: 0;
+  }
+}
